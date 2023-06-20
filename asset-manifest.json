@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chat/static/css/main.fe54fb7d.css",
+    "main.js": "/Chat/static/js/main.db3f1026.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Chat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Chat/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Chat/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Chat/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Chat/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Chat/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Chat/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Chat/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Chat/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Chat/index.html",
+    "main.fe54fb7d.css.map": "/Chat/static/css/main.fe54fb7d.css.map",
+    "main.db3f1026.js.map": "/Chat/static/js/main.db3f1026.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Chat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe54fb7d.css",
+    "static/js/main.db3f1026.js"
+  ]
+}
